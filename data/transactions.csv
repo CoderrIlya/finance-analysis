@@ -1,0 +1,11 @@
+date,category,amount,description
+1/1/2026,food,-15,McDonalds
+1/2/2026,transport,-3,Bus
+1/3/2026,salary,1000,Job
+1/4/2026,food,-20,Restaurant
+1/5/2026,shopping,-50,Clothes
+1/10/2026,food,-10,Coffee
+2/1/2026,salary,1000,Job
+2/2/2026,food,-25,Groceries
+2/3/2026,transport,-5,Taxi
+2/5/2026,shopping,-100,Shoes
