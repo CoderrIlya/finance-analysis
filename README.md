@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance Analysis Project
 
 ## Описание
@@ -17,3 +18,6 @@
 ## Как запустить
 ```bash
 python src/main.py
+=======
+# finance-analysis
+>>>>>>> 43691ded74df7c732f20feb0eb9f21087e22488f
